@@ -1,5 +1,5 @@
 [programs.localnet]
-soul_events = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+soulevents = "DvBhWLgb8jDv57fDo1HXiNE59QkCU5T4zZikFADSL9N8"
 
 [registry]
 url = "https://anchor.projectserum.com"
